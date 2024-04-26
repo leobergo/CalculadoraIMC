@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projeto IMC</string>
+    <string name="message">Ola Leo Bergo!</string>
+    <string name="message_classificacao">Classificação: %1$s!</string>
+    <string name="click">click</string>
+    <string name="veja_abaixo_a_tabela">VEJA ABAIXO A TABELA</string>
+</resources>
