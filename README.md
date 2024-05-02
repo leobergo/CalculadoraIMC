@@ -3,9 +3,6 @@ Calculadora IMC foi um aplicativo que desenvolvi para dar meus primeiros passos 
 Eu participei do desafio 10D na comunidade DevSpace e consegui sair do ZERO.
 
 ## :camera_flash: Screenshots
-![image1 png](https://github.com/leobergo/CalculadoraIMC/assets/146857109/817aace2-952c-4d24-ba18-6632df647c5e)
-![image2](https://github.com/leobergo/CalculadoraIMC/assets/146857109/906cb1d4-a0d4-4818-853c-2bec681f4f3a)
-![image3](https://github.com/leobergo/CalculadoraIMC/assets/146857109/d16f1d04-e487-4323-b254-4235e876ab4c)
 
 <img src="/result/image1.png" width="260">&emsp;<img src="/result/image2.png" width="260">&emsp;<img src="/result/image3.png" width="260">
 
